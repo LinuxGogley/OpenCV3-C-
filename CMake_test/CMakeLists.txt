@@ -1,0 +1,12 @@
+cmake_minimum_required (VERSION 2.6)
+project (CMakeTest)
+add_executable(${PROJECT_NAME} main.cpp}
+
+# Create our hello library
+add_library(Hello hello.cpp hello.h)
+
+# Create our application that uses our new library
+add_executable(executable main.cpp)
+
+# Link our executable with the new library
+target_link_libraries( executable Hello)

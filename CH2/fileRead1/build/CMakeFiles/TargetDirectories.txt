@@ -1,0 +1,3 @@
+/home/lgogley/Projects/OpenCV/CH2/fileRead1/build/CMakeFiles/rebuild_cache.dir
+/home/lgogley/Projects/OpenCV/CH2/fileRead1/build/CMakeFiles/edit_cache.dir
+/home/lgogley/Projects/OpenCV/CH2/fileRead1/build/CMakeFiles/sample.dir
